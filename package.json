@@ -4,6 +4,7 @@
   "description": "",
   "main": "app_promise.js",
   "scripts": {
+    "start":"node app_promise.js"
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "ar",
